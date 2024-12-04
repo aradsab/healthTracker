@@ -1,0 +1,26 @@
+{
+   "firstName": "arad",
+   "lastName": "parshad",
+   "gender": true,
+   "weight": 180,
+   "essentials": [
+      {
+         "calcium": 2,
+         "vitaminC": 2,
+         "vitaminB": 2,
+         "iron": 2,
+         "zinc": 2,
+         "sugar": 2
+      },
+      {
+         "calcium": 2,
+         "vitaminC": 2,
+         "vitaminB": 2,
+         "iron": 2,
+         "zinc": 2,
+         "sugar": 2
+      }
+   ],
+   "age": 21,
+   "height": 181
+}
