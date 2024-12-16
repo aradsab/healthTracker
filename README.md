@@ -30,7 +30,7 @@ food habits and their actions could actually have big impacts on their daily moo
 their future.
 
 # Phase 1
-##As a user:
+## As a user:
 
    - I want to create a personal profile.
    - I want to create a health profile and test how healthy I am.
